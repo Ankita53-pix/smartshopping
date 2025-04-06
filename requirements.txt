@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+requests
+fastapi
+uvicorn
+beautifulsoup4
+aiohttp
+httpx
+sqlite-utils
+pyyaml
+tqdm
