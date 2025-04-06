@@ -1,0 +1,2 @@
+db_path: database/smartshop.db
+ollama_model: mistral
